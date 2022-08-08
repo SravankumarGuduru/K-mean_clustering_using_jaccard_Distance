@@ -1,0 +1,20 @@
+Jaccard distance is used in Kmeans clustering.
+
+Initial We choose cluster centroids by random sampling. Then we moved all points into nearest centroid cluster.
+step-2 : Updating centroid - finding the record in cluster which have the minimum distance with all the cluster member and make it as new centoid as cluster
+step-3 : If cluster is updated then repeat the step-2 gain till centroid doesn't change 
+
+
+here are different cluster sizes and their SSE:
+5 Clusters = sum_of_squared_error = 1123.870768082391
+7 Clusters = sum_of_squared_error = 1090.6668325439784
+11 Clusters = sum_of_squared_error = 1072.0103230040659
+13 Clusters = sum_of_squared_error = 1060.8905110016037
+17 Clusters = sum_of_squared_error = 1044.9328869780222
+19 Clusters = sum_of_squared_error = 1043.6929457486603
+
+Sizes of each cluster is given in clustering.logs file.
+
+
+Oberseravtion:
+As we increase number of cluster sum_of_squared_error is decreasing. But rate of decreasing gardulally reduced. To find best K we can use elbow method which results in K = 7

@@ -1,0 +1,115 @@
+             tweet_id                       data_time                                                                                                                                         tweet
+0  586278450392133633  Thu Apr 09 21:24:09 +0000 2015                                                              Planning to hire a personal trainer? Read these 7 tips first: http://ow.ly/LpxFq
+1  586260156155043843  Thu Apr 09 20:11:28 +0000 2015  RT @AnnaMedaris: Any dads out their who struggled w/ #depression or #anxiety after their kid was born? Let's talk! amiller[at]usnews[dot]co…
+2  586248551811932160  Thu Apr 09 19:25:21 +0000 2015       America's problem with diabetes in one map: http://ow.ly/LoXQG  by @leonardkl @Lindzcook http://pbs.twimg.com/media/CCLF85lW8AAVP4Z.png
+3  586229697165586432  Thu Apr 09 18:10:26 +0000 2015                                                 Think water &amp; fiber will cure your constipation? Unlikely. Here's why: http://ow.ly/LoBLH
+4  586215972731822080  Thu Apr 09 17:15:53 +0000 2015                                    About to lose it? Here, try one of these office-approved #relaxation exercises: http://ow.ly/LoBkH #stress
+clusters_updated, iterating to update again.
+Centroid didn't change, sum_of_squared_error = 1147.645464087687
+Total 3 Clusters
+cluster number : # of tweets
+1, : , 801, tweets
+2, : , 261, tweets
+3, : , 333, tweets
+clusters_updated, iterating to update again.
+clusters_updated, iterating to update again.
+clusters_updated, iterating to update again.
+Centroid didn't change, sum_of_squared_error = 1108.588059297737
+Total 5 Clusters
+cluster number : # of tweets
+1, : , 643, tweets
+2, : , 263, tweets
+3, : , 276, tweets
+4, : , 159, tweets
+5, : , 54, tweets
+clusters_updated, iterating to update again.
+clusters_updated, iterating to update again.
+Centroid didn't change, sum_of_squared_error = 1092.1083037588137
+Total 7 Clusters
+cluster number : # of tweets
+1, : , 174, tweets
+2, : , 199, tweets
+3, : , 75, tweets
+4, : , 348, tweets
+5, : , 233, tweets
+6, : , 200, tweets
+7, : , 166, tweets
+clusters_updated, iterating to update again.
+clusters_updated, iterating to update again.
+Centroid didn't change, sum_of_squared_error = 1042.058176583417
+Total 11 Clusters
+cluster number : # of tweets
+1, : , 165, tweets
+2, : , 129, tweets
+3, : , 193, tweets
+4, : , 83, tweets
+5, : , 98, tweets
+6, : , 117, tweets
+7, : , 162, tweets
+8, : , 128, tweets
+9, : , 36, tweets
+10, : , 138, tweets
+11, : , 146, tweets
+clusters_updated, iterating to update again.
+Centroid didn't change, sum_of_squared_error = 1077.009564501303
+Total 13 Clusters
+cluster number : # of tweets
+1, : , 138, tweets
+2, : , 220, tweets
+3, : , 82, tweets
+4, : , 39, tweets
+5, : , 58, tweets
+6, : , 52, tweets
+7, : , 279, tweets
+8, : , 98, tweets
+9, : , 141, tweets
+10, : , 81, tweets
+11, : , 84, tweets
+12, : , 77, tweets
+13, : , 46, tweets
+clusters_updated, iterating to update again.
+Centroid didn't change, sum_of_squared_error = 1042.5584371549767
+Total 17 Clusters
+cluster number : # of tweets
+1, : , 53, tweets
+2, : , 319, tweets
+3, : , 151, tweets
+4, : , 64, tweets
+5, : , 54, tweets
+6, : , 115, tweets
+7, : , 41, tweets
+8, : , 49, tweets
+9, : , 76, tweets
+10, : , 30, tweets
+11, : , 15, tweets
+12, : , 141, tweets
+13, : , 46, tweets
+14, : , 56, tweets
+15, : , 46, tweets
+16, : , 118, tweets
+17, : , 21, tweets
+clusters_updated, iterating to update again.
+clusters_updated, iterating to update again.
+clusters_updated, iterating to update again.
+Centroid didn't change, sum_of_squared_error = 1033.499511566429
+Total 19 Clusters
+cluster number : # of tweets
+1, : , 70, tweets
+2, : , 159, tweets
+3, : , 88, tweets
+4, : , 16, tweets
+5, : , 136, tweets
+6, : , 50, tweets
+7, : , 192, tweets
+8, : , 205, tweets
+9, : , 62, tweets
+10, : , 25, tweets
+11, : , 51, tweets
+12, : , 36, tweets
+13, : , 41, tweets
+14, : , 82, tweets
+15, : , 8, tweets
+16, : , 30, tweets
+17, : , 96, tweets
+18, : , 19, tweets
+19, : , 29, tweets
